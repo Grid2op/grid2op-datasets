@@ -5,8 +5,9 @@
     "filename": "rte_case14_redisp.tar.bz2"
   },
 "l2rpn_case14_sandbox": {
-    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
-    "filename": "l2rpn_case14_sandbox.tar.bz2"
+    "base_url": "https://huggingface.co/datasets/grid2op/l2rpn-datasets/resolve/main/",
+    "filename": "l2rpn_case14_sandbox.tar.bz2",
+    "sha256": "1c3b2d73bcfda03c2fc0e977e16e695f303e856752d8b280443accb7248b5827"
   },
 "l2rpn_2019": {
     "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
