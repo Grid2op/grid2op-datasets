@@ -42,8 +42,9 @@
     "filename": "l2rpn_neurips_2020_track2_small.tar.bz2"
   },
 "l2rpn_icaps_2021_small": {
-    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpncompdata/",
-    "filename": "l2rpn_icaps_2021_small.tar.bz2"
+    "base_url": "https://huggingface.co/datasets/grid2op/l2rpn-datasets/resolve/main/",
+    "filename": "l2rpn_icaps_2021_small.tar.bz2",
+    "sha256": "66c822bcfdb32c716ec9aa9496ceb60f43cf6c8f825d62989fd7305fd7582cca"
   },
 "l2rpn_icaps_2021_large": {
     "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpncompdata/",
