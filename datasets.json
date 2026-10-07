@@ -47,8 +47,9 @@
     "sha256": "66c822bcfdb32c716ec9aa9496ceb60f43cf6c8f825d62989fd7305fd7582cca"
   },
 "l2rpn_icaps_2021_large": {
-    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpncompdata/",
-    "filename": "l2rpn_icaps_2021_large.tar.bz2"
+    "base_url": "https://huggingface.co/datasets/grid2op/l2rpn-datasets/resolve/main/",
+    "filename": "l2rpn_icaps_2021_large.tar.bz2",
+    "sha256": "8a5a482a6575e85c9598d762abe3d4d8d531569ad1270611fdd2d6f60ac78721"
   },
 "l2rpn_wcci_2022": {
       "base_url": "https://codalab.lisn.upsaclay.fr/my/datasets/download/",
