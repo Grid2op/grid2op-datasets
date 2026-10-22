@@ -22,8 +22,9 @@
     "filename": "ieee118_r2subgrid_wcci_v1.tar.bz2"
   },  
 "l2rpn_wcci_2020": {
-    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
-    "filename": "l2rpn_wcci_2020.tar.bz2"
+    "base_url": "https://huggingface.co/datasets/grid2op/l2rpn-datasets/resolve/main/",
+    "filename": "l2rpn_wcci_2020.tar.bz2",
+    "sha256": "122a8e6b2762aca3958390501855c98962c1d019c6047f8e9aad038e32676ffc"
   },  
 "l2rpn_neurips_2020_track1_large": {
     "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
